@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Othman 👋
 
-<!--
-**OthmanOff/OthmanOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student based in Paris, focused on
+backend, mobile and cloud development.
 
-Here are some ideas to get you started:
+I enjoy building complete products — from APIs and databases
+to mobile applications and deployment infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+**Backend**
+TypeScript · AdonisJS · Node.js · PostgreSQL
+
+**Frontend**
+Vue.js · React · Next.js
+
+**Mobile**
+Flutter · Dart
+
+**DevOps**
+Docker · Linux · Git · CI/CD
+
+## Currently exploring
+
+AI applications · RAG · Vector databases · Local LLMs
+
+## Selected projects
+
+🚧 New open-source projects coming soon.
